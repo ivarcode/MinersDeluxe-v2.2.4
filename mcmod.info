@@ -1,0 +1,19 @@
+[
+{
+  "modid": "MinersDeluxe",
+  "name": "MinersDeluxe",
+  "description": "MinersDeluxe is a mod that adds many new ores, items, tools, armor and craftable blocks to build with. The Dimension "The Grand Mine" is a cave dimension with new dangerous enemies and new minable gems. Ores drop gemstones that are colored and some which emit light, which can be used to craft building blocks, tools, and armor. Craftable explosives added which will make craters big enough to lag even the best of PCs.  Torches also added for additional convenience while mining to give yourself colored paths to follow.",
+  "version": "2.2.4",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "1.6.4",
+  "url": "http://www.minecraftforum.net/topic/1893712-162-miners-deluxe-mod/",
+  "updateUrl": "",
+  "authors": ["awesomemancam"],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
